@@ -1,0 +1,28 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "name": "2 nights in Chaung Thar",
+      "price": 100000,
+      "location": "Myanmar"
+    },
+    {
+      "id": 2,
+      "name": "2 nights in Kalaw",
+      "price": 120000,
+      "location": "Myanmar"
+    },
+    {
+      "id": 3,
+      "name": "2 nights in Bagan",
+      "price": 150000,
+      "location": "Myanmar"
+    },
+    {
+      "id": 4,
+      "name": "2 nights in Bangkok",
+      "price": 200000,
+      "location": "Thailand"
+    }
+  ]
+}
